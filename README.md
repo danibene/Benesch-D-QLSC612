@@ -30,7 +30,7 @@ jupyter notebook analysis/my_analysis.ipynb
 
 1. A [txt file](https://github.com/danibene/Benesch-D-QLSC612/blob/master/analysis/summary_partY.txt) ```summary_partY.txt``` containing the results of the regression analysis for partY.
 
-2. A png file with partY plotted against weight and PIQ (a measure of [non-verbal intelligence](https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale#Performance_IQ_(PIQ))
+2. A png file with partY plotted against weight and PIQ (performance intelligent quotient)
 ![image](https://github.com/danibene/Benesch-D-QLSC612/blob/master/analysis/pairplot_partY.png)
 
 3. A [txt file](https://github.com/danibene/Benesch-D-QLSC612/blob/master/analysis/summary_partY2.txt) ```summary_partY.txt``` containing the results of the regression analysis for partY.

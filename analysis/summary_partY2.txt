@@ -1,0 +1,28 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 partY2   R-squared:                       0.095
+Model:                            OLS   Adj. R-squared:                  0.044
+Method:                 Least Squares   F-statistic:                     1.843
+Date:                Sun, 31 May 2020   Prob (F-statistic):              0.173
+Time:                        23:16:03   Log-Likelihood:                -50.917
+No. Observations:                  38   AIC:                             107.8
+Df Residuals:                      35   BIC:                             112.7
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      2.3327      1.291      1.807      0.079      -0.287       4.953
+PIQ           -0.0052      0.007     -0.748      0.460      -0.019       0.009
+Weight        -0.0119      0.007     -1.766      0.086      -0.026       0.002
+==============================================================================
+Omnibus:                        0.356   Durbin-Watson:                   2.345
+Prob(Omnibus):                  0.837   Jarque-Bera (JB):                0.320
+Skew:                          -0.202   Prob(JB):                        0.852
+Kurtosis:                       2.802   Cond. No.                     1.56e+03
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.56e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

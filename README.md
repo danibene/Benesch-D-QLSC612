@@ -26,3 +26,11 @@ pip install -r documents/requirements.txt
 ```
 jupyter notebook analysis/my_analysis.ipynb
 ```
+## Expected Output
+
+1. A [txt file](https://github.com/danibene/Benesch-D-QLSC612/blob/master/analysis/summary_partY.txt) ```summary_partY.txt``` containing the results of the regression analysis for partY.
+
+2. A png file with partY plotted against body weight and performance IQ:
+![image](https://github.com/danibene/Benesch-D-QLSC612/blob/master/analysis/pairplot_partY.png)
+
+3. A [txt file](https://github.com/danibene/Benesch-D-QLSC612/blob/master/analysis/summary_partY2.txt) ```summary_partY.txt``` containing the results of the regression analysis for partY.

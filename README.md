@@ -6,9 +6,12 @@ My submission for the QLSC612 practical assignment.
 
 1. Clone this repository
 
+This can be done with:
+
 ```
 git clone https://github.com/danibene/Benesch-D-QLSC612.git
 ```
+Then change the working directory to ```Benesch-D-QLSC612```. 
 
 2. Install the required dependencies (it is recommended that you create and activate a [virtual environment](https://docs.python.org/3/tutorial/venv.html) beforehand)
 
